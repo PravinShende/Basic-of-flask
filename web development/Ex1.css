@@ -1,0 +1,23 @@
+
+
+/*tag{
+
+	property: value;
+}*/
+
+h1{
+	color:blue;
+}
+
+li{
+	color:rgb(52, 219, 235);
+}
+
+p{
+	color:#d40834;
+}
+
+h4{
+	color: rgba(52, 219, 235, .8);
+}
+
